@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Multi-city restaurant dataset for Norwich-New London-Willimantic (Metro), Connecticut, covering Norwich, New London, and Willimantic. Captures the competitive landscape across city boundaries within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, ratings, reviews, and competitive metrics. Refreshed weekly.",
+  "config_name": "All Restaurants in Norwich-New London-Willimantic (Metro), Connecticut, US",
+  "export_job_id": "ba42ef1f-73ed-4f66-9e69-95fd48b13a21",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 211266,
+  "location_name": "Norwich-New London-Willimantic, CT",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-norwich-new-london-willimantic-metro-connecticut-us-sample-211266",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/211266/beamstation_211266_restaurants-us-norwichnewlondonwillimanticct_SAMPLE_DIST.csv",
+  "sample_pct": 9.92,
+  "sample_records": 71,
+  "sample_sha256": "074beeeb91be7ed4786736dcd736f1e3a60cc0c0f748517dbe997caf8191a0d0",
+  "sample_size_bytes": 258542,
+  "total_records": 716,
+  "updated_at": "2026-04-07T12:30:13.382535+00:00"
+}
