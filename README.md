@@ -1,6 +1,6 @@
 # All Restaurants in Norwich-New London-Willimantic (Metro), Connecticut, US
 
-> Free BeamStation sample export with 57 rows and masked direct-contact fields.
+> Free BeamStation sample export with 70 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `211266` |
 | Location | Norwich-New London-Willimantic, CT |
 | Category | Restaurants |
-| Full dataset size | 574 records |
-| Free sample size | 57 records (9.93%) |
-| Last export | 2026-04-21T13:11:32.055506+00:00 |
+| Full dataset size | 701 records |
+| Free sample size | 70 records (9.99%) |
+| Last export | 2026-04-28T14:12:10.465128+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-norwich-new-london-willimantic-metro-connecticut-us-sample-211266/releases/download/sample-latest/beamstation_211266_restaurants-us-norwichnewlondonwillimanticct_SAMPLE_DIST.csv) |
 
 ## What is in this sample
