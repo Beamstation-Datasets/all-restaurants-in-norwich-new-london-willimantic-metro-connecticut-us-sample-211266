@@ -1,12 +1,12 @@
 {
-  "export_job_id": "74f9ba9b-2c08-486e-b4b9-8b3b64dd2818",
+  "export_job_id": "4c4cefcc-f5e1-4817-a380-ba5ff884dffb",
   "id_short": 211266,
-  "published_at": "2026-04-21T19:10:24Z",
+  "published_at": "2026-04-28T19:08:30Z",
   "repo_name": "all-restaurants-in-norwich-new-london-willimantic-metro-connecticut-us-sample-211266",
   "sample_asset_name": "beamstation_211266_restaurants-us-norwichnewlondonwillimanticct_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/211266/beamstation_211266_restaurants-us-norwichnewlondonwillimanticct_SAMPLE_DIST.csv",
-  "sample_records": 57,
-  "sample_sha256": "cee098ed8b8ca12e33cda37c1fe6402a55dd50a802f3e51d707aefa3733523a6",
-  "sample_size_bytes": 226001,
-  "total_records": 574
+  "sample_records": 70,
+  "sample_sha256": "7ae318c6dd27ca69f13da09ab510007bb4c3638032d8454c0ca63bbf0f81e45f",
+  "sample_size_bytes": 235917,
+  "total_records": 701
 }
